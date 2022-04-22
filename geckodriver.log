@@ -1,0 +1,1877 @@
+1645475888067	geckodriver	INFO	Listening on 127.0.0.1:57620
+1645475979017	geckodriver	INFO	Listening on 127.0.0.1:58488
+1645475982073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58489" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileR77Gu4"
+1645475982450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileR77Gu4\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:58489/devtools/browser/05412cfb-2685-4ffa-bdb1-e6695efc192f
+1645475984371	Marionette	INFO	Listening on port 58498
+1645475984791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645476038164	geckodriver	INFO	Listening on 127.0.0.1:51076
+1645476041223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51077" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofile1FNOL4"
+*** You are running in headless mode.
+1645476041593	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofile1FNOL4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51077/devtools/browser/f87d8122-773f-41c5-9308-64eb390696b9
+1645476042542	Marionette	INFO	Listening on port 51083
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1645476042798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645495681833	Marionette	INFO	Stopped listening on port 51083
+1649706505472	geckodriver	INFO	Listening on 127.0.0.1:62201
+1649706508522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62202" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileBI8l8q"
+*** You are running in headless mode.
+1649706508847	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileBI8l8q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62202/devtools/browser/46cff4d7-cd99-44c4-8391-94eef380755c
+1649706509882	Marionette	INFO	Listening on port 62208
+1649706510065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649706967380	geckodriver	INFO	Listening on 127.0.0.1:52307
+1649706970450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52308" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofile4W8HFi"
+1649706970757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofile4W8HFi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52308/devtools/browser/7bfab25e-acbc-46fa-9195-8ceba9a24346
+1649706972640	Marionette	INFO	Listening on port 52314
+1649706973139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649752836416	geckodriver	INFO	Listening on 127.0.0.1:58149
+1649752839530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58150" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilewyrWoZ"
+1649752840092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilewyrWoZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58150/devtools/browser/699b2a22-6afe-4c29-9969-ad3eefe34406
+1649752841861	Marionette	INFO	Listening on port 58155
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649752842203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649753089444	Marionette	INFO	Stopped listening on port 58155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649759396115	geckodriver	INFO	Listening on 127.0.0.1:57711
+1649759399221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57712" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilej9satm"
+1649759399820	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilej9satm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57712/devtools/browser/89964cf3-fa6c-4b68-81a2-a821ba41c24f
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649759401789	Marionette	INFO	Listening on port 57720
+1649759401867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Error writing response to: getEmbedderElement"
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "node.ownerDocument.csp is null"
+console.error: (new TypeError("node.ownerDocument.csp is null", "resource://devtools/shared/layout/utils.js", 919))
+console.error: "Failed to start [root-node] legacy listener for target server0.conn0.windowGlobal2147483656/windowGlobalTarget2" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error writing response to: children"
+console.error: "Error while calling actor 'domwalker's method 'children'" "node.ownerDocument.csp is null"
+console.error: (new TypeError("node.ownerDocument.csp is null", "resource://devtools/shared/layout/utils.js", 919))
+console.error: (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Exception when calling onAvailable handler" "Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/client/inspector/markup/markup.js, line 1044: TypeError: this.getContainer(...) is undefined
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal2147483654/domnode41, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 212 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal2147483654/domnode41, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 212 getMutations
+console.warn: "Got a mutation for an unexpected actor: server0.conn0.windowGlobal2147483654/domnode41, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 212 getMutations
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (TypeError): node.ownerDocument.csp is null from: server0.conn0.windowGlobal2147483654/domwalker23 (resource://devtools/shared/layout/utils.js:919:15)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649759459481	Marionette	INFO	Stopped listening on port 57720
+1649759593120	geckodriver	INFO	Listening on 127.0.0.1:54391
+1649759596192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54392" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileHu9w8p"
+1649759596473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileHu9w8p\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:54392/devtools/browser/9b4e2ec0-ab2c-4525-962f-6ac4868262f9
+1649759598043	Marionette	INFO	Listening on port 54402
+1649759598230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649760883640	Marionette	INFO	Stopped listening on port 54402
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649781921937	geckodriver	INFO	Listening on 127.0.0.1:64144
+1649781925030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64145" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileQ0XEed"
+1649781925581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileQ0XEed\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64145/devtools/browser/a614cecb-3a10-46f8-9312-8cfddd38e091
+1649781927477	Marionette	INFO	Listening on port 64156
+1649781927706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649782413666	geckodriver	INFO	Listening on 127.0.0.1:50950
+1649782416736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50951" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileJGwhEk"
+1649782417033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileJGwhEk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50951/devtools/browser/3f90e5d1-bc56-4eb8-aa76-31ce4d4f2644
+1649782418619	Marionette	INFO	Listening on port 50959
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649782418774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649782421116	Marionette	INFO	Stopped listening on port 50959
+1649783072984	geckodriver	INFO	Listening on 127.0.0.1:49190
+1649783076043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49191" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileFgtTo4"
+1649783076758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileFgtTo4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49191/devtools/browser/8455532b-b114-417a-92d3-6e808149d122
+1649783079080	Marionette	INFO	Listening on port 49200
+1649783079339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649783627586	Marionette	INFO	Stopped listening on port 49200
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649783643865	geckodriver	INFO	Listening on 127.0.0.1:53757
+1649783646945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53758" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileqsSivZ"
+1649783647280	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileqsSivZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53758/devtools/browser/b277bc1f-1c83-497b-a154-f2b2a2284d7e
+1649783649300	Marionette	INFO	Listening on port 53766
+1649783649592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649783662989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649783879664	geckodriver	INFO	Listening on 127.0.0.1:65123
+1649783882742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65124" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileR5IR5R"
+1649783883089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileR5IR5R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65124/devtools/browser/98698ddb-aa5e-43e8-ae49-f23805bc7ab6
+1649783884955	Marionette	INFO	Listening on port 65137
+1649783885398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649784069524	geckodriver	INFO	Listening on 127.0.0.1:49832
+1649784072607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49833" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileN7IpDe"
+1649784072966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileN7IpDe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49833/devtools/browser/7f7222df-2bed-4070-bf69-9f8453b41184
+1649784074917	Marionette	INFO	Listening on port 49843
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649784075261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649784256122	geckodriver	INFO	Listening on 127.0.0.1:63651
+1649784259209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63652" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilePjiEvb"
+1649784259561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilePjiEvb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63652/devtools/browser/2dc20170-6063-476d-b7b0-70468d10ef8c
+1649784261494	Marionette	INFO	Listening on port 63662
+1649784261881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649784269265	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649784512894	Marionette	INFO	Stopped listening on port 63662
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649876425218	geckodriver	INFO	Listening on 127.0.0.1:56737
+1649876428280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56738" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilejFrzA1"
+1649876428875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofilejFrzA1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56738/devtools/browser/ca4c7fff-894a-4136-b430-63cb0bcb7b7d
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649876430879	Marionette	INFO	Listening on port 56747
+1649876430993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649876443670	Marionette	INFO	Stopped listening on port 56747
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649876583184	geckodriver	INFO	Listening on 127.0.0.1:61533
+1649876586238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61534" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofiledAPo0g"
+1649876586529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofiledAPo0g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61534/devtools/browser/1e81290c-2926-4a89-a6fa-9eb7d76e14df
+1649876588109	Marionette	INFO	Listening on port 61540
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1649876588294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649876592267	Marionette	INFO	Stopped listening on port 61540
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649876597817	geckodriver	INFO	Listening on 127.0.0.1:61583
+1649876600855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61584" "-no-remote" "-profile" "C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileKUM1JY"
+1649876601175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\AGO061\\AppData\\Local\\Temp\\rust_mozprofileKUM1JY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61584/devtools/browser/a29b4299-87ae-4461-8732-f89ff1193c4d
+1649876602818	Marionette	INFO	Listening on port 61591
+1649876602894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1649876880867	Marionette	INFO	Stopped listening on port 61591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650472875984	geckodriver	INFO	Listening on 127.0.0.1:64102
+1650472879032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\maurizio\\AppData\\Local\\Temp\\rust_mozprofile998GGU"
+*** You are running in headless mode.
+1650472880642	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maurizio\\AppData\\Local\\Temp\\rust_mozprofile998GGU\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650472881494	Marionette	INFO	Listening on port 64112
+1650472881661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650473138184	geckodriver	INFO	Listening on 127.0.0.1:64336
+1650473148406	geckodriver	INFO	Listening on 127.0.0.1:64349
+1650473151446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\maurizio\\AppData\\Local\\Temp\\rust_mozprofileHHr2Vz"
+1650473151661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maurizio\\AppData\\Local\\Temp\\rust_mozprofileHHr2Vz\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650473153163	Marionette	INFO	Listening on port 64358
+1650473153458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650473155573	Marionette	INFO	Stopped listening on port 64358
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1650473179292	geckodriver	INFO	Listening on 127.0.0.1:64452
+1650473182332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\maurizio\\AppData\\Local\\Temp\\rust_mozprofileEnqvX9"
+1650473182542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\maurizio\\AppData\\Local\\Temp\\rust_mozprofileEnqvX9\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650473184043	Marionette	INFO	Listening on port 64464
+1650473184353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650519605310	geckodriver	INFO	Listening on 127.0.0.1:54452
+1650519608389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54453" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofiledgqwxm"
+*** You are running in headless mode.
+1650519610100	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofiledgqwxm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54453/devtools/browser/c5a4bd98-41d7-424e-8980-c846f5e595fe
+1650519614990	Marionette	INFO	Listening on port 54458
+1650519615217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1650521713573	geckodriver	INFO	Listening on 127.0.0.1:55305
+1650521716682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55306" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile7jztIp"
+*** You are running in headless mode.
+1650521717739	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile7jztIp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55306/devtools/browser/a4c0980b-efc1-4137-976d-77c871841535
+1650521722666	Marionette	INFO	Listening on port 55311
+1650521723131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1650523055367	geckodriver	INFO	Listening on 127.0.0.1:57571
+1650523058422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57572" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilepAEeVs"
+*** You are running in headless mode.
+1650523060151	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilepAEeVs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57572/devtools/browser/31559e57-7baa-4bc1-b645-de97390edbd2
+1650523065787	Marionette	INFO	Listening on port 57577
+1650523066008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650523938250	geckodriver	INFO	Listening on 127.0.0.1:63060
+1650523941385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63061" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileqkAx1R"
+*** You are running in headless mode.
+1650523942804	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileqkAx1R\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:63061/devtools/browser/22275242-b0d9-4fcc-af27-15672f298f77
+1650523950075	Marionette	INFO	Listening on port 63066
+1650523950521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650524814718	geckodriver	INFO	Listening on 127.0.0.1:57217
+1650524817824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57218" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileUHk7r8"
+*** You are running in headless mode.
+1650524819253	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileUHk7r8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57218/devtools/browser/d25fc719-e0ec-4f81-8a74-30d2c4801043
+1650524825617	Marionette	INFO	Listening on port 57225
+1650524825918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650524988900	geckodriver	INFO	Listening on 127.0.0.1:54112
+1650524992027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54113" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekxWkBi"
+*** You are running in headless mode.
+1650524993455	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekxWkBi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54113/devtools/browser/534b3056-6999-40b3-a95d-9eb7ab594704
+1650524999744	Marionette	INFO	Listening on port 54118
+1650525000196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650526089180	geckodriver	INFO	Listening on 127.0.0.1:62718
+1650526092327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62719" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileB1LucQ"
+*** You are running in headless mode.
+1650526094228	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileB1LucQ\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:62719/devtools/browser/9f9e28f5-a173-4abf-bc2d-4d947a6cdfcd
+1650526101397	Marionette	INFO	Listening on port 60739
+1650526101746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650526263271	geckodriver	INFO	Listening on 127.0.0.1:52991
+1650526266484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52992" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4CN0za"
+*** You are running in headless mode.
+1650526268084	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4CN0za\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52992/devtools/browser/06b1279b-b791-4a91-bd9d-44df0d535d98
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650526275178	Marionette	INFO	Listening on port 52997
+1650526275618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650526478066	geckodriver	INFO	Listening on 127.0.0.1:60124
+1650526481207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60125" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile3QFzev"
+*** You are running in headless mode.
+1650526482827	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile3QFzev\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:60125/devtools/browser/ca1d5d72-9f7a-4ae1-8e47-6767f109d00a
+1650526490292	Marionette	INFO	Listening on port 60130
+1650526490850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650527230269	geckodriver	INFO	Listening on 127.0.0.1:52084
+1650527233421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52085" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileY8dhh1"
+*** You are running in headless mode.
+1650527235043	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileY8dhh1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52085/devtools/browser/63c144a3-760a-4188-afe8-df7f81b38c66
+1650527241576	Marionette	INFO	Listening on port 52090
+1650527241967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650527434935	geckodriver	INFO	Listening on 127.0.0.1:65102
+1650527438055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65103" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilelPB9Br"
+*** You are running in headless mode.
+1650527439919	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilelPB9Br\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65103/devtools/browser/d2e56e57-59ab-4467-bccf-340c6cabc601
+1650527446302	Marionette	INFO	Listening on port 65108
+1650527446651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650529213054	geckodriver	INFO	Listening on 127.0.0.1:54325
+1650529216197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54326" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilepMglCb"
+*** You are running in headless mode.
+1650529217763	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilepMglCb\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:54326/devtools/browser/e29f105c-ded8-48ed-88ec-b30437be9167
+1650529224942	Marionette	INFO	Listening on port 54331
+1650529225303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650529426996	geckodriver	INFO	Listening on 127.0.0.1:60246
+1650529430154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60247" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekuvQLF"
+*** You are running in headless mode.
+1650529431538	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekuvQLF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60247/devtools/browser/3d41c49e-e200-4412-b3e5-6aaa3418a362
+1650529437825	Marionette	INFO	Listening on port 60252
+1650529438184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650531143703	geckodriver	INFO	Listening on 127.0.0.1:49882
+1650531146850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49883" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileyyMeX4"
+*** You are running in headless mode.
+1650531148743	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileyyMeX4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49883/devtools/browser/40ed0eba-259a-403f-8033-7aabb420c1f6
+1650531154980	Marionette	INFO	Listening on port 49888
+1650531155378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650531412779	geckodriver	INFO	Listening on 127.0.0.1:50000
+1650531415916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50001" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileStPxjr"
+*** You are running in headless mode.
+1650531417237	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileStPxjr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50001/devtools/browser/556173ac-ceaf-43b0-9d21-f9ba4e290b51
+1650531423473	Marionette	INFO	Listening on port 50006
+1650531423925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650531675597	geckodriver	INFO	Listening on 127.0.0.1:50094
+1650531678716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50095" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileowJbZi"
+*** You are running in headless mode.
+1650531680075	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileowJbZi\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:50095/devtools/browser/6ecbf40c-830e-4ad2-9dc5-623760bf655c
+1650531686859	Marionette	INFO	Listening on port 50100
+1650531687275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650531942613	geckodriver	INFO	Listening on 127.0.0.1:50192
+1650531945771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50193" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilefK3Cq8"
+*** You are running in headless mode.
+1650531946944	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilefK3Cq8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50193/devtools/browser/0dd48c98-a4c0-408c-bc86-f443b209df3e
+1650531952210	Marionette	INFO	Listening on port 50198
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650531952820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650532211133	geckodriver	INFO	Listening on 127.0.0.1:50274
+1650532214293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50275" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile3c0cLa"
+*** You are running in headless mode.
+1650532215685	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile3c0cLa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50275/devtools/browser/48810227-d523-44c4-8324-19074058685a
+1650532221859	Marionette	INFO	Listening on port 50280
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650532222310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650532474134	geckodriver	INFO	Listening on 127.0.0.1:50377
+1650532477254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50378" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilevw0Z7S"
+*** You are running in headless mode.
+1650532478676	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilevw0Z7S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50378/devtools/browser/d029ef95-a268-4798-b65f-7d4192fb9630
+1650532484700	Marionette	INFO	Listening on port 50383
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650532485298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650532964184	geckodriver	INFO	Listening on 127.0.0.1:50494
+1650532967352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50495" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileygy18i"
+*** You are running in headless mode.
+1650532968690	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileygy18i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50495/devtools/browser/87f7f950-3509-4eb2-a949-254164ab6be0
+1650532974877	Marionette	INFO	Listening on port 50500
+1650532975366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650533233059	geckodriver	INFO	Listening on 127.0.0.1:50595
+1650533236201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50596" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileKisMBM"
+*** You are running in headless mode.
+1650533237629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileKisMBM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50596/devtools/browser/e7a5c94a-8adf-41ab-8549-97279522763c
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650533244375	Marionette	INFO	Listening on port 50601
+1650533244687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650533496236	geckodriver	INFO	Listening on 127.0.0.1:50681
+1650533499390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50682" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDlhSHc"
+*** You are running in headless mode.
+1650533500775	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDlhSHc\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:50682/devtools/browser/cebb8a25-1458-44d9-bcd4-25136fd7d5ec
+1650533507891	Marionette	INFO	Listening on port 50687
+1650533507992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650533763459	geckodriver	INFO	Listening on 127.0.0.1:50785
+1650533766565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50786" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile6N9iVO"
+*** You are running in headless mode.
+1650533767965	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile6N9iVO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50786/devtools/browser/3bcf0d99-2563-4a39-a6f6-dc842a457b96
+1650533774198	Marionette	INFO	Listening on port 50791
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650533774752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650534032365	geckodriver	INFO	Listening on 127.0.0.1:50871
+1650534035495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50872" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileYzM1GP"
+*** You are running in headless mode.
+1650534037077	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileYzM1GP\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:50872/devtools/browser/3bd45ccb-2503-42e4-a477-576263b1c275
+1650534044306	Marionette	INFO	Listening on port 50877
+1650534044641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650534295130	geckodriver	INFO	Listening on 127.0.0.1:50972
+1650534298259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50973" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileB8NKYz"
+*** You are running in headless mode.
+1650534299621	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileB8NKYz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50973/devtools/browser/6f61e2b8-1337-417b-bc7a-b023426c8b50
+1650534305638	Marionette	INFO	Listening on port 50978
+1650534305874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650534785419	geckodriver	INFO	Listening on 127.0.0.1:51090
+1650534788551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51091" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileudRoM2"
+*** You are running in headless mode.
+1650534789933	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileudRoM2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51091/devtools/browser/371bccdc-5c61-4365-9178-dfe7881ef8f0
+1650534796042	Marionette	INFO	Listening on port 51096
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650534796603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650535054837	geckodriver	INFO	Listening on 127.0.0.1:51189
+1650535057915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51190" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileq8JkP1"
+*** You are running in headless mode.
+1650535059291	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileq8JkP1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51190/devtools/browser/62062f21-96f6-41a7-823d-d15065cd7818
+1650535065430	Marionette	INFO	Listening on port 51195
+1650535066029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650535317970	geckodriver	INFO	Listening on 127.0.0.1:51287
+1650535321112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51288" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileVwT19V"
+*** You are running in headless mode.
+1650535322444	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileVwT19V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51288/devtools/browser/2b648d9d-f567-4545-a0f2-e8c53eefeb6a
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650535329096	Marionette	INFO	Listening on port 51293
+1650535329601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650535584701	geckodriver	INFO	Listening on 127.0.0.1:51382
+1650535587837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51383" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile8VoYqO"
+*** You are running in headless mode.
+1650535589311	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile8VoYqO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51383/devtools/browser/748a2efe-ed40-4df0-a2ca-07f66bff1c86
+1650535595378	Marionette	INFO	Listening on port 51388
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650535595874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650535853494	geckodriver	INFO	Listening on 127.0.0.1:51480
+1650535856581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51481" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekOHK27"
+*** You are running in headless mode.
+1650535857993	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekOHK27\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:51481/devtools/browser/8cbb95b8-381f-4bbc-b2d9-55b41461cec8
+1650535864965	Marionette	INFO	Listening on port 51486
+1650535865102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650537824225	geckodriver	INFO	Listening on 127.0.0.1:51675
+1650537827342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51676" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilejFhW87"
+*** You are running in headless mode.
+1650537828751	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilejFhW87\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51676/devtools/browser/299ea335-2fe2-4aa3-a435-33f43ebce16f
+1650537834753	Marionette	INFO	Listening on port 51681
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650537835346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650538157415	geckodriver	INFO	Listening on 127.0.0.1:51771
+1650538160515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51772" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilehAAeiz"
+*** You are running in headless mode.
+1650538161921	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilehAAeiz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51772/devtools/browser/4e9272d4-b8c7-4706-8b10-0b6951a8bf01
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650538168431	Marionette	INFO	Listening on port 51777
+1650538168555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650538472818	geckodriver	INFO	Listening on 127.0.0.1:51876
+1650538475912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51877" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileq6q7j6"
+*** You are running in headless mode.
+1650538477492	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileq6q7j6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51877/devtools/browser/b5747fb6-ea3d-494f-9db5-f34a8404d3e9
+1650538483631	Marionette	INFO	Listening on port 51882
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650538483944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650538804301	geckodriver	INFO	Listening on 127.0.0.1:51983
+1650538807381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51984" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4krOvL"
+*** You are running in headless mode.
+1650538809173	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4krOvL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51984/devtools/browser/ed36f50b-bceb-46c0-89ad-245c89fe61ea
+1650538815128	Marionette	INFO	Listening on port 51989
+1650538815427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650539137221	geckodriver	INFO	Listening on 127.0.0.1:52084
+1650539140347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52085" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileLjzq80"
+*** You are running in headless mode.
+1650539142066	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileLjzq80\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:52085/devtools/browser/7df4ea7a-dc82-4402-8f8a-2cee1cb1becb
+1650539149744	Marionette	INFO	Listening on port 52090
+1650539150233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650539447682	geckodriver	INFO	Listening on 127.0.0.1:52189
+1650539450774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52190" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilenKSRb8"
+*** You are running in headless mode.
+1650539452456	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilenKSRb8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52190/devtools/browser/a2951da2-979c-4901-9008-468001f70ad2
+1650539458678	Marionette	INFO	Listening on port 52195
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650539458964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650540498572	geckodriver	INFO	Listening on 127.0.0.1:52422
+1650540502181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52423" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileNhMMim"
+*** You are running in headless mode.
+1650540503818	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileNhMMim\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52423/devtools/browser/e5705a56-fa5b-4ac3-9746-826a9cc3657c
+1650540510046	Marionette	INFO	Listening on port 52428
+1650540510349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650540831271	geckodriver	INFO	Listening on 127.0.0.1:52532
+1650540834401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52533" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileL9focr"
+*** You are running in headless mode.
+1650540836489	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileL9focr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52533/devtools/browser/3c6de2c3-5963-4d30-aa35-af68b415cc78
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650540843302	Marionette	INFO	Listening on port 52538
+1650540843597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650541146016	geckodriver	INFO	Listening on 127.0.0.1:52662
+1650541149130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52663" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileOuOm6A"
+*** You are running in headless mode.
+1650541150467	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileOuOm6A\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:52663/devtools/browser/065a9e15-7d70-4703-84b5-02aaf1d66441
+1650541157456	Marionette	INFO	Listening on port 52668
+1650541157624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1650541477276	geckodriver	INFO	Listening on 127.0.0.1:52754
+1650541480384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52755" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileZARNLF"
+*** You are running in headless mode.
+1650541481837	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileZARNLF\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+DevTools listening on ws://localhost:52755/devtools/browser/91b9f9ce-a39b-42e3-a6eb-925eb13f3e01
+1650541488569	Marionette	INFO	Listening on port 52760
+1650541488924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650541809772	geckodriver	INFO	Listening on 127.0.0.1:52866
+1650541812926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52867" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileEecvTc"
+*** You are running in headless mode.
+1650541814352	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileEecvTc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52867/devtools/browser/93955bf0-d2c6-4303-a49c-12a471d41f8b
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650541820838	Marionette	INFO	Listening on port 52872
+1650541821084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650542119564	geckodriver	INFO	Listening on 127.0.0.1:52959
+1650542122671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52960" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileg2BlMS"
+*** You are running in headless mode.
+1650542124127	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileg2BlMS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52960/devtools/browser/b1ccf110-6983-4b95-af5b-0dd897075297
+1650542130376	Marionette	INFO	Listening on port 52965
+1650542130726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650542854775	geckodriver	INFO	Listening on 127.0.0.1:53109
+1650542857875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53110" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile0WKFfL"
+*** You are running in headless mode.
+1650542859331	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile0WKFfL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53110/devtools/browser/3efa5baa-f64b-4540-82a9-3e5a6722f9a7
+1650542865593	Marionette	INFO	Listening on port 53115
+1650542865976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650543047836	geckodriver	INFO	Listening on 127.0.0.1:53290
+1650543050995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53291" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileq8HilA"
+*** You are running in headless mode.
+1650543052299	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileq8HilA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53291/devtools/browser/49c0531f-3ddb-45c3-a4e2-08bb2fae61fc
+1650543058388	Marionette	INFO	Listening on port 53296
+1650543058629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650543380524	geckodriver	INFO	Listening on 127.0.0.1:53389
+1650543383651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53390" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekowVQF"
+*** You are running in headless mode.
+1650543385034	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekowVQF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53390/devtools/browser/16c60ba6-1d73-4bd3-8cfc-9e3a8165b47e
+1650543391139	Marionette	INFO	Listening on port 53395
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650543391637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650543695530	geckodriver	INFO	Listening on 127.0.0.1:53491
+1650543698651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53492" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileQILtce"
+*** You are running in headless mode.
+1650543700066	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileQILtce\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53492/devtools/browser/484022f6-2549-4b63-ab9b-e992334d9bd0
+1650543706158	Marionette	INFO	Listening on port 53497
+1650543706705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650544295586	geckodriver	INFO	Listening on 127.0.0.1:50917
+1650544298675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50918" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileJKWpq9"
+*** You are running in headless mode.
+1650544299968	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileJKWpq9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50918/devtools/browser/8955781e-345a-4dec-a629-8b4e2ac38667
+1650544306402	Marionette	INFO	Listening on port 50923
+1650544306759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650544628321	geckodriver	INFO	Listening on 127.0.0.1:51012
+1650544631488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51013" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile57YISa"
+*** You are running in headless mode.
+1650544632874	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile57YISa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51013/devtools/browser/0c7cd319-96c9-49fb-a40b-db208d972803
+1650544638984	Marionette	INFO	Listening on port 51018
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650544639660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650544943347	geckodriver	INFO	Listening on 127.0.0.1:51138
+1650544946414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51139" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileBelgGd"
+*** You are running in headless mode.
+1650544947847	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileBelgGd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51139/devtools/browser/21bc2cee-aba5-4d12-80fb-35dc3c349584
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650544954668	Marionette	INFO	Listening on port 51144
+1650544954946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650545274221	geckodriver	INFO	Listening on 127.0.0.1:51239
+1650545277272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51240" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileudwh4I"
+*** You are running in headless mode.
+1650545278628	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileudwh4I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51240/devtools/browser/4c204b7b-b50e-4732-b45c-212b1a911f1b
+1650545284942	Marionette	INFO	Listening on port 51245
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650545285413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650545606704	geckodriver	INFO	Listening on 127.0.0.1:51341
+1650545609756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51342" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileGOed4J"
+*** You are running in headless mode.
+1650545611242	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileGOed4J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51342/devtools/browser/0689157e-e2f2-43ce-9cd9-a3f85e8191c3
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650545618219	Marionette	INFO	Listening on port 51347
+1650545618496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650545916820	geckodriver	INFO	Listening on 127.0.0.1:51442
+1650545919939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51443" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileyRoFQZ"
+*** You are running in headless mode.
+1650545921433	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileyRoFQZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51443/devtools/browser/329f99de-7ea7-4a85-a9f9-9c04acd4860a
+1650545927848	Marionette	INFO	Listening on port 51448
+1650545928127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650546651787	geckodriver	INFO	Listening on 127.0.0.1:51605
+1650546655070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51606" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4QNNEE"
+*** You are running in headless mode.
+1650546656493	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4QNNEE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51606/devtools/browser/b0cf5a02-e6f9-49ae-aedb-cce501c4aebf
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650546662783	Marionette	INFO	Listening on port 51611
+1650546663176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650546984296	geckodriver	INFO	Listening on 127.0.0.1:51699
+1650546987434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51700" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilevREFWQ"
+*** You are running in headless mode.
+1650546988806	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilevREFWQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51700/devtools/browser/0e672c5e-442b-4a78-9978-0bc1d59fd808
+1650546994903	Marionette	INFO	Listening on port 51705
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650546995436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650547299038	geckodriver	INFO	Listening on 127.0.0.1:51804
+1650547302170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51805" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4ZHqpY"
+*** You are running in headless mode.
+1650547303614	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile4ZHqpY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51805/devtools/browser/1ce7cb96-811a-4c6e-8cd8-8876d0cb84cc
+1650547309784	Marionette	INFO	Listening on port 51810
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650547310261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650547594407	geckodriver	INFO	Listening on 127.0.0.1:63262
+1650547597528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63263" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileEz4rEI"
+*** You are running in headless mode.
+1650547599204	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileEz4rEI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63263/devtools/browser/c28fc1c4-562b-4e2a-9c36-885b6a97de38
+1650547605603	Marionette	INFO	Listening on port 63268
+1650547606069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650547927379	geckodriver	INFO	Listening on 127.0.0.1:50885
+1650547930510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50886" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile1uIvK0"
+*** You are running in headless mode.
+1650547932021	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile1uIvK0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50886/devtools/browser/cc8e3d2b-01d4-47af-8e44-6d2f9aefac6f
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650547938512	Marionette	INFO	Listening on port 50891
+1650547939123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1650561203102	geckodriver	INFO	Listening on 127.0.0.1:59971
+1650561206206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59972" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile40gt2B"
+*** You are running in headless mode.
+1650561208010	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile40gt2B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59972/devtools/browser/d555ae28-2aff-4b8d-978c-939cf884de80
+1650561215645	Marionette	INFO	Listening on port 59977
+1650561216179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650561338575	geckodriver	INFO	Listening on 127.0.0.1:60077
+1650561341753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60078" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileIHIOGU"
+*** You are running in headless mode.
+1650561343122	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileIHIOGU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60078/devtools/browser/4b371db4-c089-427f-bd33-2412e5e037fa
+1650561349457	Marionette	INFO	Listening on port 60084
+1650561349756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650561672595	geckodriver	INFO	Listening on 127.0.0.1:60222
+1650561675977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60223" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilehRTyZJ"
+*** You are running in headless mode.
+1650561677609	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilehRTyZJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60223/devtools/browser/60ef0e75-3ba2-41d3-9dda-a9bfb7854653
+1650561683786	Marionette	INFO	Listening on port 60228
+1650561684070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650561986408	geckodriver	INFO	Listening on 127.0.0.1:60327
+1650561989512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60328" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilei8Dtku"
+*** You are running in headless mode.
+1650561991040	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilei8Dtku\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60328/devtools/browser/5c55650a-8519-47b6-8d66-a6917f006db9
+1650561997646	Marionette	INFO	Listening on port 60333
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650561998055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650562317287	geckodriver	INFO	Listening on 127.0.0.1:60417
+1650562320502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60418" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileosjInn"
+*** You are running in headless mode.
+1650562322515	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileosjInn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60418/devtools/browser/7614dc32-06c1-49e0-b61d-741209ffb7c3
+1650562329138	Marionette	INFO	Listening on port 60423
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650562329800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650562650211	geckodriver	INFO	Listening on 127.0.0.1:60524
+1650562653347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60525" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileR6lSDq"
+*** You are running in headless mode.
+1650562654786	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileR6lSDq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60525/devtools/browser/bd80dc34-5028-438a-9fd5-fa97c7356ad2
+1650562660854	Marionette	INFO	Listening on port 60530
+1650562660964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650562959538	geckodriver	INFO	Listening on 127.0.0.1:60623
+1650562962740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60624" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileaS5arT"
+*** You are running in headless mode.
+1650562963932	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileaS5arT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60624/devtools/browser/708720c7-3278-4cb2-917b-ea5c34e09f07
+1650562969984	Marionette	INFO	Listening on port 60629
+1650562970242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650563694978	geckodriver	INFO	Listening on 127.0.0.1:60750
+1650563698185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60751" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexKz5ZM"
+*** You are running in headless mode.
+1650563699545	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexKz5ZM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60751/devtools/browser/d9ad477d-fdb5-4a0b-8c71-9493afc620b0
+1650563705955	Marionette	INFO	Listening on port 60756
+1650563706192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650564027726	geckodriver	INFO	Listening on 127.0.0.1:60852
+1650564030871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60853" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilevdJv03"
+*** You are running in headless mode.
+1650564032191	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilevdJv03\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60853/devtools/browser/8a5c66a5-1c88-4d83-9b5d-f281c9df73a5
+1650564038150	Marionette	INFO	Listening on port 60858
+1650564038437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650564342661	geckodriver	INFO	Listening on 127.0.0.1:60953
+1650564345843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60954" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofiledKwsxy"
+*** You are running in headless mode.
+1650564347270	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofiledKwsxy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60954/devtools/browser/f9e7fa87-94d6-46ff-92c6-bb20c2453c25
+1650564353166	Marionette	INFO	Listening on port 60959
+1650564353309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650564674436	geckodriver	INFO	Listening on 127.0.0.1:61056
+1650564677586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61057" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilej9S0Zp"
+*** You are running in headless mode.
+1650564679027	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilej9S0Zp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61057/devtools/browser/c7f5fc38-177d-430f-87de-fd43543e2bbc
+1650564685299	Marionette	INFO	Listening on port 61062
+1650564685660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650565007510	geckodriver	INFO	Listening on 127.0.0.1:61162
+1650565010740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61163" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileixHeSL"
+*** You are running in headless mode.
+1650565012120	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileixHeSL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61163/devtools/browser/0ffc47af-b780-46be-b264-f817db2fe38a
+1650565019147	Marionette	INFO	Listening on port 61168
+1650565019430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650565317396	geckodriver	INFO	Listening on 127.0.0.1:61251
+1650565320525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61252" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDF9DQ5"
+*** You are running in headless mode.
+1650565321947	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDF9DQ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61252/devtools/browser/c9c508ba-9502-4281-8410-3d4798996fb9
+1650565328375	Marionette	INFO	Listening on port 61257
+1650565328619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650566052751	geckodriver	INFO	Listening on 127.0.0.1:61406
+1650566055977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61407" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileMOMG07"
+*** You are running in headless mode.
+1650566057439	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileMOMG07\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61407/devtools/browser/533030b4-27c7-4ea9-9f4a-2bdd1a8b63ff
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650566063763	Marionette	INFO	Listening on port 61412
+1650566063991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650566385343	geckodriver	INFO	Listening on 127.0.0.1:61508
+1650566388476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61509" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile5cf5Db"
+*** You are running in headless mode.
+1650566389856	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile5cf5Db\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61509/devtools/browser/594a02e9-9e7e-4dac-bc0b-ca4048eb580b
+1650566395796	Marionette	INFO	Listening on port 61514
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650566396066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650566699774	geckodriver	INFO	Listening on 127.0.0.1:61606
+1650566702876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61607" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileAJglhE"
+*** You are running in headless mode.
+1650566704197	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileAJglhE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61607/devtools/browser/a5df76e3-3b9e-4c80-b620-8ff5f06b59db
+1650566710464	Marionette	INFO	Listening on port 61612
+1650566710897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650567031165	geckodriver	INFO	Listening on 127.0.0.1:61715
+1650567034352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61716" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileWEOABD"
+*** You are running in headless mode.
+1650567035752	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileWEOABD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61716/devtools/browser/27117715-1cc0-4d4f-afd3-b205caa9e0be
+1650567042114	Marionette	INFO	Listening on port 61721
+1650567042469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650567363929	geckodriver	INFO	Listening on 127.0.0.1:61819
+1650567367063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61820" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileuO4BtJ"
+*** You are running in headless mode.
+1650567368419	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileuO4BtJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61820/devtools/browser/8a32defe-751d-4f2a-8b17-a0dad7fd15e7
+1650567374333	Marionette	INFO	Listening on port 61825
+1650567374686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650567674072	geckodriver	INFO	Listening on 127.0.0.1:61914
+1650567677198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61915" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileImdxXD"
+*** You are running in headless mode.
+1650567678658	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileImdxXD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61915/devtools/browser/c5315a6d-6497-4b19-8f37-a8dd4b9b331f
+1650567684007	Marionette	INFO	Listening on port 61931
+1650567684229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650568409747	geckodriver	INFO	Listening on 127.0.0.1:62072
+1650568412866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62073" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilesBCntr"
+*** You are running in headless mode.
+1650568414212	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilesBCntr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62073/devtools/browser/8dcccbcc-8a2f-4374-beda-567051c12bd6
+1650568420190	Marionette	INFO	Listening on port 62078
+1650568420392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650568742869	geckodriver	INFO	Listening on 127.0.0.1:62174
+1650568746075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62175" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileqjvBCY"
+*** You are running in headless mode.
+1650568748015	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileqjvBCY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62175/devtools/browser/1dfdef7e-3927-4505-b678-31a0e3d13389
+1650568753749	Marionette	INFO	Listening on port 62182
+1650568754281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650569058156	geckodriver	INFO	Listening on 127.0.0.1:62287
+1650569061292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62288" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile7r5lT0"
+*** You are running in headless mode.
+1650569062651	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile7r5lT0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62288/devtools/browser/6289b77b-277b-4d10-b6f4-77f5e3619108
+1650569068906	Marionette	INFO	Listening on port 62293
+1650569069328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650569388521	geckodriver	INFO	Listening on 127.0.0.1:62396
+1650569391673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62397" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDKH7Dw"
+*** You are running in headless mode.
+1650569393132	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDKH7Dw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62397/devtools/browser/9748c8a9-e1f7-4a40-adcf-af2be90d2c9a
+1650569399112	Marionette	INFO	Listening on port 62402
+1650569399242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650569721295	geckodriver	INFO	Listening on 127.0.0.1:62505
+1650569724437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62506" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekgAbfm"
+*** You are running in headless mode.
+1650569725844	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilekgAbfm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62506/devtools/browser/96444cdb-cbef-4a33-81e9-753c15aebc0b
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650569732121	Marionette	INFO	Listening on port 62511
+1650569732540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650570031432	geckodriver	INFO	Listening on 127.0.0.1:62607
+1650570034566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62608" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileQhwZMW"
+*** You are running in headless mode.
+1650570036298	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileQhwZMW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62608/devtools/browser/77e1d8b3-0ac8-40db-941b-527e88f7ac2a
+1650570042366	Marionette	INFO	Listening on port 62613
+1650570042833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650570766290	geckodriver	INFO	Listening on 127.0.0.1:62753
+1650570769405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62754" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileQYv3J9"
+*** You are running in headless mode.
+1650570770989	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileQYv3J9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62754/devtools/browser/714f1119-b73f-4701-b056-3c5df310c9c4
+1650570777420	Marionette	INFO	Listening on port 62759
+1650570778067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650571099334	geckodriver	INFO	Listening on 127.0.0.1:62852
+1650571102410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62853" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile00SkqZ"
+*** You are running in headless mode.
+1650571104231	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile00SkqZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62853/devtools/browser/92274e78-34e3-4230-923d-904d512d2ec9
+1650571110794	Marionette	INFO	Listening on port 62858
+1650571111351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650571414703	geckodriver	INFO	Listening on 127.0.0.1:62948
+1650571417817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62949" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofiledrLrw5"
+*** You are running in headless mode.
+1650571419241	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofiledrLrw5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62949/devtools/browser/5bea5abe-ca81-432b-bc66-275ac7cee9c1
+1650571425731	Marionette	INFO	Listening on port 62954
+1650571426118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650571746406	geckodriver	INFO	Listening on 127.0.0.1:63050
+1650571749572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63051" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile5J6ntl"
+*** You are running in headless mode.
+1650571750990	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile5J6ntl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63051/devtools/browser/e3cdaf40-7e25-486f-845c-58678d5b7722
+1650571757531	Marionette	INFO	Listening on port 63056
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650571758081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650572079447	geckodriver	INFO	Listening on 127.0.0.1:63161
+1650572082607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63162" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileuZW2xk"
+*** You are running in headless mode.
+1650572083913	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileuZW2xk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63162/devtools/browser/78f3dc7c-77ef-408d-bbc0-64df3a8c855b
+1650572090335	Marionette	INFO	Listening on port 63167
+1650572090651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650589142316	geckodriver	INFO	Listening on 127.0.0.1:63457
+1650589145448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63458" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile9VANQK"
+*** You are running in headless mode.
+1650589147160	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofile9VANQK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63458/devtools/browser/47df87a4-4410-4c0d-beb7-fb37ded522cf
+1650589156286	Marionette	INFO	Listening on port 63463
+1650589156812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650589474916	geckodriver	INFO	Listening on 127.0.0.1:63548
+1650589477990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63549" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileTKmwLc"
+*** You are running in headless mode.
+1650589479763	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileTKmwLc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63549/devtools/browser/6fa7798b-0afa-496f-9678-a6377227cd2f
+1650589486679	Marionette	INFO	Listening on port 63554
+1650589487098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650589789705	geckodriver	INFO	Listening on 127.0.0.1:63678
+1650589792841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63679" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileTOA9fI"
+*** You are running in headless mode.
+1650589794372	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileTOA9fI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63679/devtools/browser/e2a261aa-8a30-491c-8731-2cab111b7d1b
+1650589800715	Marionette	INFO	Listening on port 63684
+1650589801053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650590120385	geckodriver	INFO	Listening on 127.0.0.1:63798
+1650590123527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63799" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilelyV0xZ"
+*** You are running in headless mode.
+1650590124979	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilelyV0xZ\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:63799/devtools/browser/dbc16a94-d2e9-4746-b5d7-3f69c613bc99
+1650590131763	Marionette	INFO	Listening on port 63804
+1650590132006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1650590453178	geckodriver	INFO	Listening on 127.0.0.1:63819
+1650590456325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63820" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileponhAF"
+*** You are running in headless mode.
+1650590457896	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileponhAF\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:63820/devtools/browser/7fd52f0e-b75f-4dd9-b989-dc0bcf844a41
+1650590463985	Marionette	INFO	Listening on port 63825
+1650590464339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650590763010	geckodriver	INFO	Listening on 127.0.0.1:63870
+1650590766163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63871" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilednLZG3"
+*** You are running in headless mode.
+1650590767886	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilednLZG3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63871/devtools/browser/ff0989dc-0adc-420c-8a56-aa921be9f9f9
+1650590774429	Marionette	INFO	Listening on port 63876
+1650590774811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650591498916	geckodriver	INFO	Listening on 127.0.0.1:64105
+1650591502060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64106" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileT3pVYV"
+*** You are running in headless mode.
+1650591503558	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileT3pVYV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64106/devtools/browser/5c66c466-f80c-4bbb-b131-17f3b1ea2a9b
+1650591510617	Marionette	INFO	Listening on port 64111
+1650591511109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650591831823	geckodriver	INFO	Listening on 127.0.0.1:64205
+1650591834966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64206" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileIxCdPU"
+*** You are running in headless mode.
+1650591836439	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileIxCdPU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64206/devtools/browser/357fcb7c-c3b5-4e3c-a836-e6c4b18767b1
+1650591843354	Marionette	INFO	Listening on port 64212
+1650591843847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650592146774	geckodriver	INFO	Listening on 127.0.0.1:64307
+1650592149879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64308" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilerFc2jn"
+*** You are running in headless mode.
+1650592151290	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilerFc2jn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64308/devtools/browser/77a2d063-def4-441a-96a5-bce4d741352b
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650592158741	Marionette	INFO	Listening on port 64313
+1650592159011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650592477657	geckodriver	INFO	Listening on 127.0.0.1:64419
+1650592480784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64420" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileM7IJSf"
+*** You are running in headless mode.
+1650592482120	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileM7IJSf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64420/devtools/browser/b528de33-6ec1-4c64-85a8-f751a73f89c6
+1650592488784	Marionette	INFO	Listening on port 64425
+1650592489309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650592810680	geckodriver	INFO	Listening on 127.0.0.1:64518
+1650592813847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64519" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileBzXOfb"
+*** You are running in headless mode.
+1650592815212	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileBzXOfb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64519/devtools/browser/b8a0b006-7b7f-4a87-8b1e-51aded8117ab
+1650592822403	Marionette	INFO	Listening on port 64524
+1650592822942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650593120395	geckodriver	INFO	Listening on 127.0.0.1:64627
+1650593123497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64628" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileOVNCJn"
+*** You are running in headless mode.
+1650593124908	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileOVNCJn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64628/devtools/browser/98203e58-2f6c-41c4-a2be-22668b40caf8
+1650593132654	Marionette	INFO	Listening on port 64633
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650593133139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650593855403	geckodriver	INFO	Listening on 127.0.0.1:64769
+1650593858523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64770" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDWHVGG"
+*** You are running in headless mode.
+1650593859883	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileDWHVGG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64770/devtools/browser/b0fe6a74-88a6-4c40-b831-5973463f8f1f
+1650593866780	Marionette	INFO	Listening on port 64775
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650593867116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+1650594187641	geckodriver	INFO	Listening on 127.0.0.1:64881
+1650594190739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64882" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileAA9Qbr"
+*** You are running in headless mode.
+1650594192053	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileAA9Qbr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64882/devtools/browser/fa3db2d2-e795-47c8-9899-4b0a50dc9ebf
+1650594199110	Marionette	INFO	Listening on port 64887
+1650594199598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650594502959	geckodriver	INFO	Listening on 127.0.0.1:64997
+1650594506085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64998" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileB0fr2S"
+*** You are running in headless mode.
+1650594507452	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileB0fr2S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64998/devtools/browser/be1b4fb3-5159-44b8-8e13-3115a06c69d6
+1650594514775	Marionette	INFO	Listening on port 65003
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650594515607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650594833884	geckodriver	INFO	Listening on 127.0.0.1:65096
+1650594836994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65097" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileNz0MAx"
+*** You are running in headless mode.
+1650594838420	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileNz0MAx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65097/devtools/browser/f68bcaf7-225d-4136-ad01-012da37982e7
+1650594845226	Marionette	INFO	Listening on port 65102
+1650594845593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650595166969	geckodriver	INFO	Listening on 127.0.0.1:65211
+1650595170087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65212" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileLrbKPq"
+*** You are running in headless mode.
+1650595171619	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileLrbKPq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65212/devtools/browser/71b15e4b-8d51-43c5-8179-7600112810a2
+1650595178475	Marionette	INFO	Listening on port 65217
+1650595178615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://af.articleforge.com/, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/, line 93: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 76: ReferenceError: zE is not defined
+JavaScript error: https://af.articleforge.com/new_article, line 93: ReferenceError: zE is not defined
+1650595476274	geckodriver	INFO	Listening on 127.0.0.1:65297
+1650595479436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65298" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilemc2OGE"
+*** You are running in headless mode.
+1650595480872	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilemc2OGE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65298/devtools/browser/64e9a744-2cf6-4d48-a7fc-ebc8fb9f29bb
+1650595487172	Marionette	INFO	Listening on port 65303
+1650595487441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650596211916	geckodriver	INFO	Listening on 127.0.0.1:65452
+1650596215012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65453" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileqogYN5"
+*** You are running in headless mode.
+1650596216864	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileqogYN5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65453/devtools/browser/e6c43893-ce0a-4f49-853d-cf9d03c522d8
+1650596224371	Marionette	INFO	Listening on port 65458
+1650596224897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650596545231	geckodriver	INFO	Listening on 127.0.0.1:49169
+1650596548367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49170" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileR0JbUV"
+*** You are running in headless mode.
+1650596550211	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileR0JbUV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49170/devtools/browser/3b3b1c24-a873-4dfa-a698-07a284c68907
+1650596556906	Marionette	INFO	Listening on port 49175
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650596557477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650596860031	geckodriver	INFO	Listening on 127.0.0.1:49257
+1650596863125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49258" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilep406OJ"
+*** You are running in headless mode.
+1650596864519	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilep406OJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49258/devtools/browser/05e4623b-88ca-411b-a1ae-67219c545d19
+1650596870743	Marionette	INFO	Listening on port 49263
+1650596871136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650599396675	geckodriver	INFO	Listening on 127.0.0.1:49466
+1650599401111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49467" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileeDbeUm"
+*** You are running in headless mode.
+1650599403267	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileeDbeUm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49467/devtools/browser/be175d44-6a13-4d85-b553-25cad61b71fb
+1650599410597	Marionette	INFO	Listening on port 49491
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650599411179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650599728777	geckodriver	INFO	Listening on 127.0.0.1:49590
+1650599731915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49591" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileFmpQpC"
+*** You are running in headless mode.
+1650599733694	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileFmpQpC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49591/devtools/browser/df9c0047-cf23-42a1-b5a3-03b8bdf534e4
+1650599740036	Marionette	INFO	Listening on port 49596
+1650599740485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650600043771	geckodriver	INFO	Listening on 127.0.0.1:49712
+1650600046918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49713" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileUbVoF9"
+*** You are running in headless mode.
+1650600048484	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileUbVoF9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49713/devtools/browser/539ec41e-d77f-4074-b487-cb36eb404e9c
+1650600054717	Marionette	INFO	Listening on port 49718
+1650600055115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650600374625	geckodriver	INFO	Listening on 127.0.0.1:49802
+1650600377757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49803" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilefk6Diw"
+*** You are running in headless mode.
+1650600379212	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilefk6Diw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49803/devtools/browser/8b70e493-e091-4601-b57d-a4687ce07da2
+1650600385726	Marionette	INFO	Listening on port 49808
+1650600386053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650600707575	geckodriver	INFO	Listening on 127.0.0.1:49904
+1650600710730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49905" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexEzuas"
+*** You are running in headless mode.
+1650600712195	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexEzuas\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49905/devtools/browser/426834fa-63b3-4a37-a38f-4f29a3a69acf
+1650600718438	Marionette	INFO	Listening on port 49911
+1650600718750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650601017621	geckodriver	INFO	Listening on 127.0.0.1:49998
+1650601020713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49999" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexFZ5EX"
+*** You are running in headless mode.
+1650601022183	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexFZ5EX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49999/devtools/browser/b0d1d19f-421a-4e22-b097-25f73e28fa38
+1650601028260	Marionette	INFO	Listening on port 50004
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650601028795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650601753312	geckodriver	INFO	Listening on 127.0.0.1:50120
+1650601756423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50121" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilewRc2l3"
+*** You are running in headless mode.
+1650601757766	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilewRc2l3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50121/devtools/browser/b2f7c82f-ccbd-4ddf-96ca-2d598d99d541
+1650601764254	Marionette	INFO	Listening on port 50126
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650601764570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650602086174	geckodriver	INFO	Listening on 127.0.0.1:50209
+1650602089315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50210" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileFmqemi"
+*** You are running in headless mode.
+1650602090622	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofileFmqemi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50210/devtools/browser/4d262e45-c930-473b-be76-29a7d36197c6
+1650602096944	Marionette	INFO	Listening on port 50215
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+1650602097484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650602401538	geckodriver	INFO	Listening on 127.0.0.1:50311
+1650602404691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50312" "-no-remote" "-profile" "C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexvTpqS"
+*** You are running in headless mode.
+1650602405996	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SARAVA~1\\AppData\\Local\\Temp\\rust_mozprofilexvTpqS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50312/devtools/browser/434cdf1a-bb15-40a9-b0af-5bfdd0f5b3b4
+1650602412331	Marionette	INFO	Listening on port 50317
+1650602412677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://af.articleforge.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1650606669400	geckodriver	INFO	Listening on 127.0.0.1:56379
+1650606669909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47475" "-no-remote" "-profile" "/tmp/rust_mozprofilealawR0"
+*** You are running in headless mode.

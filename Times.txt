@@ -1,0 +1,5 @@
+45,75,100,120,120,5
+; The format of the file is: <time for 50 words>,<time for 250 words>,<time for 500 words>,<time for 750 words>,<time for 1500 words>,<time after initial wait>
+^
+|
+Do not remove
